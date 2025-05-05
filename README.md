@@ -30,8 +30,6 @@
 <h1>Key Activities in Requirement Analysis</h1>
 
 <ol>
-
-  
   <li>
     Requirement Gathering 🗂
     <ul>
@@ -51,6 +49,34 @@
       <li><strong>Prototyping</strong>: Creating prototypes to help stakeholders visualize the system and refine their requirements.</li>
     </ul>
   </li>
+
+<li>
+    Requirement Documentation 📚
+    <ul>
+      <li><strong>Requirement Specification Document</strong>: Creating a detailed document that lists all functional and non-functional requirements.</li>
+      <li><strong>User Stories</strong>: Writing user stories to describe functionalities from the user's perspective.</li>
+      <li><strong>Use Cases</strong>: Creating use case diagrams to show intercations between users and the system.</li>
+    </ul>
+  </li>
+
+<li>
+    Requirement Analysis and Modeling 📊
+    <ul>
+      <li><strong>Requirement Prioritization</strong>: Prioritizing requirements based on their importance and impact on the project.</li>
+      <li><strong>Feasibility Analysis</strong>: Assessing the feasibility of requirements in terms of technical, financial, and time constraints.</li>
+      <li><strong>Modeling</strong>: Creating models (e.g., data flow diagrams, entity-relationship diagrams) to visualize and analyze requirements.</li>
+    </ul>
+  </li>
+
+<li>
+    Requirement Validation ✅
+    <ul>
+      <li><strong>Review and Approval</strong>: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.</li>
+      <li><strong>Acceptance Criteria</strong>: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.</li>
+      <li><strong>Traceability</strong>: Establishing traceability matrices to ensure all requirements are addressed during developement and testing.</li>
+    </ul>
+  </li>
+
   
 </ol>
 </section>
