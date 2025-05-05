@@ -26,4 +26,33 @@
 </ul>
 </section>
 
+<section>
+<h1>Key Activities in Requirement Analysis</h1>
+
+<ol>
+
+  
+  <li>
+    Requirement Gathering 🗂
+    <ul>
+      <li><strong>Interviews</strong>: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.</li>
+      <li><strong>Surveys/Questionnaires</strong>: Distributing surveys to collect requirements from a larger audience.</li>
+      <li><strong>Workshops</strong>: Organizing workshops with stakeholders to discuss and gather requirements.</li>
+      <li><strong>Observation</strong>: Observing end-users in their working environment to understand their needs.</li>
+      <li><strong>Document Analysis</strong>: Reviewing existing documentation and systems to understand current funtionalities and requirements.</li>
+    </ul>
+  </li>
+
+<li>
+    Requirement Elicitation ✍
+    <ul>
+      <li><strong>Brainstorming</strong>: Conducting brainstorming sessions to generate ideas and gather requirements.</li>
+      <li><strong>Focus Groups</strong>: Holding focus group discussions with selected stakeholders to gather detailed requirements.</li>
+      <li><strong>Prototyping</strong>: Creating prototypes to help stakeholders visualize the system and refine their requirements.</li>
+    </ul>
+  </li>
+  
+</ol>
+</section>
+
 
