@@ -19,13 +19,9 @@
 
 <ul>
   <li><strong>Clarity and Understanding</strong>: It helps in understanding what the stakeholders except from the software, reducing ambiguity.</li>
-<ul>
   <li><strong>Scope Definition</strong>: Clearly defines the scope of the project, which helps in preventing scope creep.</li>
-<ul>
   <li><strong>Basis for Design and Development</strong>: Provides a solid foundation for designing and developing the system.</li>
-<ul>
   <li><strong>Cost and Time Estimation</strong>: Facilitates accurate estimation of project cost, resources, and time.</li>
-<ul>
   <li><strong>Quality Assurance</strong>: Ensures that the final product meetss the specified requirements, leading to higher customer satisfaction.</li>
 </ul>
 </section>
