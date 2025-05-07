@@ -118,6 +118,41 @@
 </section>
 
 <section>
+  <h1>Use Case Diagrams 📊</h1>
+  <p>
+    <strong>Objective:</strong> Visual representation of interactions between users and the system.
+  </p>
+
+  <ul>
+    <li>
+      <strong>What are Use Case Diagrams?</strong>
+      <ul>
+        <li>Use case diagrams show different users (actors) interact with the system to achieve specific goals (use cases).</li>
+      </ul>
+    </li>
+  <ul>
+    <li>
+      <strong>Creating Use Case Diagrams:</strong>
+      <ul>
+        <li>Identify actors (e.g., guest, registered user,, admin).</li>
+        <li>Define use cases (e.g., search properties, manage listings).</li>
+        <li>Draw interactions between actors and use cases.</li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <strong>Benefits of Use Case Diagrams:</strong>
+      <ul>
+        <li>Provide a clear visual representation of system functionalities.</li>
+        <li>Help in identifying and organizing system requirements.</li>
+        <li>Facilitate communication among stakeholders and the development team.</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section>
   <h1>Acceptance Criteria ✅</h1>
   <ul>
     <li><strong>What is Acceptance Criteria?</strong></li>
