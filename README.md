@@ -130,7 +130,6 @@
         <li>Use case diagrams show different users (actors) interact with the system to achieve specific goals (use cases).</li>
       </ul>
     </li>
-  <ul>
     <li>
       <strong>Creating Use Case Diagrams:</strong>
       <ul>
@@ -139,8 +138,6 @@
         <li>Draw interactions between actors and use cases.</li>
       </ul>
     </li>
-  </ul>
-  <ul>
     <li>
       <strong>Benefits of Use Case Diagrams:</strong>
       <ul>
