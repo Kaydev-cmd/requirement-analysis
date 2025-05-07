@@ -117,3 +117,32 @@
     </div>
 </section>
 
+<section>
+  <h1>Acceptance Criteria ✅</h1>
+  <ul>
+    <li><strong>What is Acceptance Criteria?</strong></li>
+      <ul>
+        <li>Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.</li>
+      </ul>
+  </ul>
+  
+  <ul>
+    <li><strong>How to Define Acceptance Criteria</strong>: </li>
+      <ul>
+        <li>Be specific and measureable.</li>
+        <li>Include funtional and non-functional aspects.</li>
+        <li>Example for Booking System: "Users should be able to select available dates, confirm booking, and recieve a confirmation email within 2 minutes".</li>
+      </ul>
+  </ul>
+
+  
+  <ul>
+    <li><strong>Benefits of Acceptance Criteria</strong>: </li>
+      <ul>
+        <li>Ensure all parties have a clear understanding of feature requirements.</li>
+        <li>Provide a basis for testing and validation.</li>
+        <li>Help in maintaining quality and meeting user expectations.</li>
+      </ul>
+  </ul>
+</section>
+
