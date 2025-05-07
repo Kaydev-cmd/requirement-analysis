@@ -76,9 +76,27 @@
       <li><strong>Traceability</strong>: Establishing traceability matrices to ensure all requirements are addressed during developement and testing.</li>
     </ul>
   </li>
-
-  
 </ol>
 </section>
 
+<section>
+  <h1>Types of Requirements</h1>
+    <div>
+      <h2>Functional Requirements ⚙</h2>
+      <ul>
+        <li><strong>Definition</strong>: Describe what the system should do.</li>
+        <li><strong>Examples</strong>: User authentication, property search, booking system, user registration.</li>
+          <li>
+            <strong>Key Functional Requirements</strong>: 
+            <ul>
+              <li><strong>Search Properties</strong>: Users should be able to search for properties based on various criteria such as location, price, and availability.</li>
+              <li><strong>User Registration</strong>: New users should be able to create an account with personal details and login credentials.</li>
+              <li><strong>Property Listings</strong>: Display properties with essential details and images.</li>
+              <li><strong>Booking System</strong>: Users should be able to book properties, view booking details, and manage their bookings.</li>
+              <li><strong>User Authentication</strong>: Secure login and registration process for users.</li>
+            </ul>
+          </li>
+      </ul>
+    </div>
+</section>
 
