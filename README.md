@@ -98,5 +98,22 @@
           </li>
       </ul>
     </div>
+    <div>
+      <h2>Non-Functional Requirements 🛡</h2>
+      <ul>
+        <li><strong>Definition</strong>: Describe how the system should perform.</li>
+        <li><strong>Examples</strong>: Performance, security, scalability, usability, reliability.</li>
+          <li>
+            <strong>Key Non-Functional Requirements</strong>: 
+            <ul>
+              <li><strong>Performance</strong>: The system should load pages within 2 seconds and handle up to 1000 concurrent users.</li>
+              <li><strong>Security</strong>: Ensure data encryption, secure login, and protect against common vulnerabilities.</li>
+              <li><strong>Scalability</strong>: The system should be able to scale horizontally to handle increased traffic.</li>
+              <li><strong>Usability</strong>: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.</li>
+              <li><strong>Reliability</strong>: The system should have an uptime of 99.9% and recover quickly from any failures.</li>
+            </ul>
+          </li>
+      </ul>
+    </div>
 </section>
 
