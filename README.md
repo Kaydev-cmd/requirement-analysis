@@ -147,7 +147,7 @@
       </ul>
     </li>
   </ul>
-  <img src="images/Use Case Diagram/alx-booking-uc.png" alt="Use Case Diagram"/>
+  <img src="alx-booking-uc.png" alt="Use Case Diagram"/>
 </section>
 
 <section>
